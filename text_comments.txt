@@ -1,0 +1,9 @@
+id,text_comments
+1,"I love my girlfriend"
+2,"I love so much my girlfriend"
+3,"I do not love another woman"
+4,"I hate another woman"
+5,"I am listening music"
+6,"I am Alexander"
+7,"I am statistician"
+8,"Mishi is a bad cat"
